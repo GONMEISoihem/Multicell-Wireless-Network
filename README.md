@@ -27,7 +27,8 @@ This repository contains a simulation of a multicell wireless network, focusing 
 ## Repository Contents
 - **Simulation Code:** The core simulation code implementing the system model described above.
 - **Documentation:** Instructions on running the simulation and understanding the output.
-- **Note:** The current repository is still in progress.
+## Project Status
+This project is currently under development. Some features may be incomplete or subject to change. Contributions and feedback are welcome as the project evolves.
 ## How to Use
 1. Clone the repository:
    ```bash
