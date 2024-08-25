@@ -1,4 +1,4 @@
-# Multicell Wireless Network Simulation
+# Multicell Wireless Network Simulation in Python
 
 ## Overview
 This repository contains a simulation of a multicell wireless network, focusing on modeling the distribution of base stations (BSs) using a homogeneous Poisson Point Process (HPPP). The simulation evaluates the performance of a typical user equipment (UE) located at the origin in a downlink scenario. The key features of the simulation include modeling the spatial distribution of BSs, propagation effects, beamforming, and signal fading.
@@ -33,3 +33,5 @@ This project is currently under development. Some features may be incomplete or 
 1. Clone the repository:
    ```bash
    git clone https://github.com/GONMEISoihem/Multicell-Wireless-Network.git
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
