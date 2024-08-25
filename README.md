@@ -32,4 +32,4 @@ This project is currently under development. Some features may be incomplete or 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/multicell-wireless-network-simulation.git
+   git clone https://github.com/GONMEISoihem/Multicell-Wireless-Network.git
